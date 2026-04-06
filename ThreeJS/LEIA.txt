@@ -1,0 +1,4 @@
+my-threejs-project é referente ao exercicio 1:
+1.Tente recriar a cena acima usando os objetos PlaneGeometry, BoxGeometry e Sphere Geometry.
+
+Os outros estão com o nome do exercicio que referenciam, sei que é meio inútil esse leia-se mas só pra desencargo mesmo
